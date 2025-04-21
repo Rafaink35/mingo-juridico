@@ -1,0 +1,6 @@
+streamlit
+llama-index
+transformers
+sentence-transformers
+openai
+python-dotenv
